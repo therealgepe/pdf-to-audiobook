@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Audio outputs & uploads
+*.mp3
+*.m4b
+uploads/
+output/
+
+# Node
+node_modules/
+.npm
